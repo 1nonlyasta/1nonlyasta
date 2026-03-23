@@ -26,7 +26,10 @@
 
 <table>
 <tr>
-<td>
+<td width="30%" align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc216dmtwdXJnbHd2OGI5YWtnZmR3ZmdqenN4cGZpM2kyaG80MzdxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q2tS8xloz0cg0/giphy.gif" height="180" alt="batman shh" />
+</td>
+<td width="40%">
 
 ```py
 class Naif:
@@ -38,8 +41,8 @@ class Naif:
 ```
 
 </td>
-<td>
-<img src="https://i.imgflip.com/65efzo.gif" height="180" alt="coding gif" />
+<td width="30%" align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmoxOWthYWRsZnU5djNrNGg5bG43bWFxd2xiZjgyMTNqaHpzc3g0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4eGUxJc4lplh6/giphy.gif" height="180" alt="batman silent" />
 </td>
 </tr>
 </table>
