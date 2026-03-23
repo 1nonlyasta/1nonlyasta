@@ -3,13 +3,9 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6C63FF,100:3F3D56&amp;height=220&amp;section=header&amp;text=Muhammed%20Naif&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%C2%B7%20Backend%20Engineer&amp;descSize=18&amp;descAlignY=55&amp;descColor=C4B5FD" width="100%" />
 
-<br/>
-
 <!-- Short Bio -->
 
 <samp>Building intelligent systems · Crafting scalable backends · Automating everything in between</samp>
-
-<br/><br/>
 
 <!-- Social Links -->
 
