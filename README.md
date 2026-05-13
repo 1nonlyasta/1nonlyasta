@@ -138,11 +138,11 @@ class Naif:
 
 | Certification                               |   Issuer   |   Date   |
 | :------------------------------------------ | :--------: | :------: |
-| 🔹 RAG &amp; Agentic AI — Professional      |  **IBM**   | Oct 2026 |
-| 🔹 Data Analyst — Professional              | **Google** | Aug 2026 |
-| 🔹 Cloud Infrastructure AI — Associate      | **Oracle** | Oct 2026 |
-| 🔹 Data Management Foundations — Associate  | **Oracle** | Nov 2026 |
-| 🔹 Cloud Platform — Data, Security &amp; ML | **Google** | Dec 2026 |
+| 🔹 RAG &amp; Agentic AI — Professional      |  **IBM**   | Oct 2025 |
+| 🔹 Data Analyst — Professional              | **Google** | Aug 2025 |
+| 🔹 Cloud Infrastructure AI — Associate      | **Oracle** | Oct 2025 |
+| 🔹 Data Management Foundations — Associate  | **Oracle** | Nov 2025 |
+| 🔹 Cloud Platform — Data, Security &amp; ML | **Google** | Dec 2025 |
 
 </div>
 
