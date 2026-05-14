@@ -49,7 +49,7 @@ class Naif:
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 **Lead Data Scientist &amp; Frontend Engineer**
 <br/><samp>DeepHubAI · Thrissur, Kerala</samp>
@@ -59,17 +59,6 @@ class Naif:
 - Cleaned &amp; transformed multi-source financial data
 - Statistical &amp; trend analysis on transactional data
 - Improved data usability by **70%+**
-
-</td>
-<td width="50%">
-
-**Open Source Contributor — GSoC 2026** 🎯
-<br/><samp>Google Summer of Code 2026</samp>
-<br/><sub>2025 — Present</sub>
-
-- <a href="https://github.com/1nonlyasta/gemini-cli">**Gemini CLI**</a> — AI tooling by Google · <a href="https://github.com/google-gemini/gemini-cli/pull/23446#issuecomment-4106369871"><sub>View PR</sub></a>
-- <a href="https://github.com/1nonlyasta/MUIOGO">**MUIOGO**</a> — Modelling UI for OG-Core &amp; OSeMOSYS · <a href="https://github.com/EAPD-DRB/MUIOGO/pull/355"><sub>View PR</sub></a>
-  <br/><sub>Under the UN Dept. of Economic &amp; Social Affairs (DESA)</sub>
 
 </td>
 </tr>
